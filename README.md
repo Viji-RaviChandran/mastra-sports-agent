@@ -2,7 +2,7 @@
 
 [![Framework: Mastra](https://img.shields.io/badge/Framework-Mastra-8A2BE2.svg)](https://mastra.ai/)
 [![Database: MS SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC292B.svg)](https://www.microsoft.com/sql-server)
-[![Language: TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6.svg)](https://www.typescriptlang.org/)
+[![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 A streamlined, agent-based AI workflow designed to process natural language queries regarding school sports day statistics. The architecture uses a dedicated AI agent to sanitize inputs and extract query metrics, delegating the complex SQL formulation (including multi-table joins) to a specialized database tool.
 
