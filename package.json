@@ -1,0 +1,1 @@
+{"name":"agents","version":"1.0.0","type":"module","scripts":{"dev":"mastra dev","build":"mastra build","start":"mastra start"},"dependencies":{"@ai-sdk/openai":"^4.0.60","@mastra/core":"latest","ai":"^7.0.97","dotenv":"^16.4.5"},"devDependencies":{"@types/node":"^20.0.0","mastra":"latest","typescript":"^5.0.0"}}
