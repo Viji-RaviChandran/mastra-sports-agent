@@ -13,7 +13,7 @@ A streamlined, agent-based AI workflow designed to process natural language quer
 > * **What it is:** A backend service that answers user questions about a school's sports day using natural language to SQL translation.
 > * **How it works:** An agent validates user intent to prevent malicious queries, extracts parameters, and passes them to a SQL building tool.
 > * **Architecture:** A direct Agent-to-Tool pipeline securely querying a 3-table relational SQL Server database.
-> * **Tech Stack:** Mastra, Node.js, Microsoft SQL Server, TypeScript.
+> * **Tech Stack:** Mastra, Node.js, Microsoft SQL Server, JavaScript.
 
 ---
 
